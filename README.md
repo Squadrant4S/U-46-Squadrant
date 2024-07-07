@@ -37,7 +37,7 @@ Oyun içi kozmetik mağazası
 ## Hedef Kitle
 Roguelike ve Roguelite Türü Hayranları
 
-Aksiyon Oyunu Severler
+Aksiyon Oyunu Sevenler
 
 Takım Çalışması ve Yerel Çok Oyunculu Oyunları Severler
 
