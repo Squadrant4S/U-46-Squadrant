@@ -44,7 +44,9 @@ PC oyuncuları
 # Sprint 1
 
 -Birinci Sprint için puan hedefi 5 olarak belirlenmiştir.
+
 -Projenin tamamlanması için hedeflenen becklog puanı 35 olarak belirlenmiştir. İlk sprint için koyulan 5 puanlık hedefe ulaşılmıştır.
+
 -Daily scrumlar için Whatsapp ve Discord tercih edilmiştir.
 
 Toplantı ve Whatsapp Yazışmaları Ekran Görüntüleri
