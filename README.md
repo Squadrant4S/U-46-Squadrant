@@ -26,12 +26,17 @@ Uzayın derinliklerinde, farklı gezegenlerde düşmanlarla savaşarak görevler
 
 ## Ürün Özellikleri
 3D
-Lokal Multiplayer
+
+Yerel Çokoyunculu
+
 Oyun içi kozmetik mağazası
+
 
 ## Hedef Kitle
 Aksiyon, Rogulite ve Macera türü seven oyuncular
+
 10+
+
 PC oyuncuları
 
 
