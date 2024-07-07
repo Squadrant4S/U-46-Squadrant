@@ -18,6 +18,9 @@ Developer - Betül Sağun
 ## Ürün İsmi
 ------
 
+## Ürün Backlog URL
+[U21 Trello Backlog](https://trello.com/b/b1UZbtqQ/u-46)
+
 ## Ürün Açıklaması
 -------
 
