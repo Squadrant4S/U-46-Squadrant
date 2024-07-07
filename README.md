@@ -19,6 +19,7 @@ Developer - Betül Sağun
 ------
 
 ## Ürün Backlog URL
+
 [U21 Trello Backlog](https://trello.com/b/b1UZbtqQ/u-46)
 
 ## Ürün Açıklaması
@@ -50,5 +51,6 @@ PC oyuncuları
 -Daily scrumlar için Whatsapp ve Discord tercih edilmiştir.
 
 Toplantı ve Whatsapp Yazışmaları Ekran Görüntüleri
+
 [Toplantı ve Yazışma Görüntüleri](https://imgur.com/a/qwpjCDl)
 
