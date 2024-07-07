@@ -35,12 +35,15 @@ Oyun içi kozmetik mağazası
 
 
 ## Hedef Kitle
-Aksiyon, Rogulite ve Macera türü seven oyuncular
+Roguelike ve Roguelite Türü Hayranları
 
-10+
+Aksiyon Oyunu Severler
 
-PC oyuncuları
+Takım Çalışması ve Yerel Çok Oyunculu Oyunları Severler
 
+Hedef yaş aralığı: 15-45
+
+Platform: Windows, MacOS, Xbox
 
 
 # Sprint 1
