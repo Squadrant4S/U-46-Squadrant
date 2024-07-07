@@ -48,6 +48,9 @@ PC oyuncuları
 
 -Projenin tamamlanması için hedeflenen becklog puanı 35 olarak belirlenmiştir. İlk sprint için koyulan 5 puanlık hedefe ulaşılmıştır.
 
+## Ürün Durumu Ekran Görüntüleri
+
+
 -Daily scrumlar için Whatsapp ve Discord tercih edilmiştir.
 
 Toplantı ve Whatsapp Yazışmaları Ekran Görüntüleri
