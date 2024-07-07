@@ -24,12 +24,12 @@ Titan Survivor
 [U21 Trello Backlog](https://trello.com/b/b1UZbtqQ/u-46)
 
 ## Ürün Açıklaması
-Uzayın derinliklerinde, farklı gezegenlerde düşmanlarla savaşarak görevleri tamamlamaya çalıştığımız bir aksiyon-macera ve rogulite türünde bir oyun. Karakterimizi tepeden bakarak yönetiyoruz ve akın akın gelen düşmanlara karşı savaşırken görevlerimizi tamamlamaya çalışıyoruz.
+Uzayın derinliklerinde, farklı gezegenlerde geçen bir aksiyon-macera ve roguelite türünde bir oyun. Karakterimizi yukarıdan bakış açısıyla yönetiyor, akın akın gelen düşmanlara karşı savaşarak görevleri tamamlamaya çalışıyoruz.
 
 ## Ürün Özellikleri
 3D
 
-Yerel Çokoyunculu
+Yerel Çok Oyunculu
 
 Oyun içi kozmetik mağazası
 
