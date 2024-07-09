@@ -48,6 +48,10 @@ Platform: Windows, MacOS, Xbox
 
 # Sprint 1
 
+## Sprint Notu:
+
+Bu Sprint'de temel karakter ve düşman hareketleri. Harita taslakları ve proplar üzerine çalışıldı.
+
 
 ## Puan Tamamlama Mantığı:
 
