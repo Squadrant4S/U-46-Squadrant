@@ -61,6 +61,11 @@ Toplantı ve Whatsapp Yazışmaları Ekran Görüntüleri
 
 [Toplantı ve Yazışma Görüntüleri](https://imgur.com/a/qwpjCDl)
 
+## Sprint 1 Board
+
+![Ekran görüntüsü 2024-07-05 220214](https://github.com/Squadrant4S/U-46-Squadrant/assets/173628722/baeccd80-ffd6-4479-9141-e95d41834451)
+
+
 ## Ürün Durumu Ekran Görüntüleri
 
 ![Ekran görüntüsü 2024-07-07 204534](https://github.com/Squadrant4S/U-46-Squadrant/assets/173628722/8a727c25-1473-4a52-9e1a-4270edc46ffd)
