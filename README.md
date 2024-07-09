@@ -48,6 +48,9 @@ Platform: Windows, MacOS, Xbox
 
 # Sprint 1
 
+
+## Puan Tamamlama Mantığı:
+
 -Birinci Sprint için puan hedefi 5 olarak belirlenmiştir.
 
 -Projenin tamamlanması için hedeflenen backlog puanı 35 olarak belirlenmiştir. İlk sprint için koyulan 5 puanlık hedefe ulaşılmıştır.
@@ -70,7 +73,7 @@ Toplantı ve Whatsapp Yazışmaları Ekran Görüntüleri
 
 ![Screenshot_267](https://github.com/Squadrant4S/U-46-Squadrant/assets/173628722/893be30b-2ee9-41e4-92a1-9cd658d81665)
 
-Sprint Rewiew:
+Sprint Review:
 
 -Oyun içi modellerin low polly ve kamera açısının tepeden bakışlı olmasına karar verilmiştir. Oyunun temel yapısı ve mekaniği belirlenmiştir.
 
