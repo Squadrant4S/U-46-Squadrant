@@ -96,6 +96,53 @@ Retrospective:
 
 -Grup olarak toplantı yapıldı ve geliştirme sürecinin nasıl devam edeceği kararlaştırılmıştır.
 
+# Sprint 2
+
+## Sprint Notu:
+Bu sprint'de oyun oynanabilir bir hale getirildi ve temel mekanikler tamamlandı.
+
+## Puan Tamamlama Mantığı:
+
+-İkinci sprint hedefi 15 puan olarak belirlenmiştir ve belirlenen hedefe ulaşılmıştır.
+
+
+-Daily Scrum: Bu sprint boyunca günlük toplantılar, WhatsApp üzerinden mesajlaşarak ve Discord aracılığıyla yapılan toplantılar ile yürütülmüştür. 
+
+## Toplantı ve Whatsapp Ekran Görüntüleri:
+
+[Toplantı ve Yazışma Görüntüleri](https://imgur.com/a/JxPBQaz)
+
+## Sprint 2 Board
+
+![WhatsApp Image 2024-07-20 at 23 36 24 (2)](https://github.com/user-attachments/assets/1b744da2-aca4-4a3c-aee9-581e4da2df4b)
+
+## Ürün Durumu Ekran Görüntüleri
+
+![Ekran görüntüsü 2024-07-21 161327](https://github.com/user-attachments/assets/810eee06-8902-4403-859e-6b6b23012c58)
+
+![Ekran görüntüsü 2024-07-21 161212](https://github.com/user-attachments/assets/f04c710c-cd55-4282-8ade-32cf1f99c568)
+
+![Ekran görüntüsü 2024-07-21 161427](https://github.com/user-attachments/assets/3693a2f1-f47d-440e-b3d4-e621427107a7)
+
+![Ekran görüntüsü 2024-07-21 161506](https://github.com/user-attachments/assets/a31e88b3-269e-49b8-a2a1-9a1a3434545b)
+
+Sprint Review:
+
+Bu sprintin sonunda, karakter ve düşman mekaniklerinin düzeltilmesi ve oyunun genel oynanışının gözden geçirilmesi yönünde bir karar alınmıştır. Oynanış deneyimini iyileştirmek amacıyla karakter ve düşmanların işleyişi üzerinde düzenlemeler yapılmıştır.
+
+Sprint Retrospective: 
+
+Karakter ve düşman modellerinin hareket ve saldırı mekanikleri oyunun oynanabilirliğini artırmak ve denge sağlamak için optimize edilmiştir.
+Düşman modellerinin çeşitlendirilmesi mevcut sprintten diğer sprintlere ertelenmiştir.
+
+Çevre tasarımı taslağı:
+
+Çevre tasarımının ilk taslağı hazırlanmıştır. Oyunun ortamını ve dünya yapısını oluşturmada temel bir rehber olarak kullanılacak ve ilerleyen zamanlarda detaylandırılacaktır.
+
+
+
+
+
 
 
 
