@@ -142,36 +142,50 @@ Düşman modellerinin çeşitlendirilmesi mevcut sprintten diğer sprintlere ert
 # Sprint 3
 
 ## Sprint Notu:
+Bu sprintte oyunun oynanabilir hale getirilmesi ve eksiklerin tamamlanması amaçlanmıştır.
 
 
 ## Puan Tamamlama Mantığı:
 
--İkinci sprint hedefi 15 puan olarak belirlenmiştir ve belirlenen hedefe ulaşılmıştır.
+-Üçüncü sprint hedefi 15 puan olarak belirlenmiştir ve belirlenen hedefe ulaşılmıştır.
 
 
 -Daily Scrum: Bu sprint boyunca günlük toplantılar, WhatsApp üzerinden mesajlaşarak ve Discord aracılığıyla yapılan toplantılar ile yürütülmüştür. 
 
 ## Toplantı ve Whatsapp Ekran Görüntüleri:
 
+[Toplantı ve Yazışma Görüntüleri](https://imgur.com/a/8WRzASK)
+
 
 
 ## Sprint 3 Board
 
+![Ekran görüntüsü 2024-08-02 224708](https://github.com/user-attachments/assets/e12caa22-16de-417c-b900-1b2f0ef31788)
 
 
 ## Ürün Durumu Ekran Görüntüleri
+
+![WhatsApp Image 2024-08-02 at 23 31 38](https://github.com/user-attachments/assets/dae3e23e-52d8-4ccc-a05b-5c4bdf730edf)
+
+![WhatsApp Image 2024-08-02 at 23 31 37](https://github.com/user-attachments/assets/c1d406b8-431f-42d5-8a4a-be84f4f965c7)
+
+![WhatsApp Image 2024-08-02 at 23 31 36](https://github.com/user-attachments/assets/87846ddb-5075-47a4-b785-d1993edf762e)
 
 
 
 Sprint Review:
 
+Bu sprintde karakter animasyonları, vfx'ler ve ses efekleri eklendi. Oyun haritası tamamlandı ve oyun son haline getirildi.
+
 
 
 Sprint Retrospective: 
 
+Karakter ve düşman animasyonları düzeltildi. Ses efektleri eklendi. Harita son hale getirildi ve oyunda denglemelere yapıldı.
 
 
-Çevre tasarımı taslağı:
+
+
 
 
 
