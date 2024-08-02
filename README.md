@@ -139,6 +139,42 @@ Düşman modellerinin çeşitlendirilmesi mevcut sprintten diğer sprintlere ert
 
 Çevre tasarımının ilk taslağı hazırlanmıştır. Oyunun ortamını ve dünya yapısını oluşturmada temel bir rehber olarak kullanılacak ve ilerleyen zamanlarda detaylandırılacaktır.
 
+# Sprint 3
+
+## Sprint Notu:
+
+
+## Puan Tamamlama Mantığı:
+
+-İkinci sprint hedefi 15 puan olarak belirlenmiştir ve belirlenen hedefe ulaşılmıştır.
+
+
+-Daily Scrum: Bu sprint boyunca günlük toplantılar, WhatsApp üzerinden mesajlaşarak ve Discord aracılığıyla yapılan toplantılar ile yürütülmüştür. 
+
+## Toplantı ve Whatsapp Ekran Görüntüleri:
+
+
+
+## Sprint 3 Board
+
+
+
+## Ürün Durumu Ekran Görüntüleri
+
+
+
+Sprint Review:
+
+
+
+Sprint Retrospective: 
+
+
+
+Çevre tasarımı taslağı:
+
+
+
 
 
 
